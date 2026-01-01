@@ -1,2 +1,2 @@
 # lab6
-it is my public repository
+it is my public repository.Author Zaish Sheikh
