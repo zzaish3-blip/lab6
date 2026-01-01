@@ -1,2 +1,2 @@
 # lab6
-its mmy public repository
+it is my public repository
